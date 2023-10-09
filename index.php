@@ -26,5 +26,6 @@ else if ($temp >= 36 and $temp <= 36.6){
 // $b = 1;
 
 // echo $a !== $b;
+// echo $a ** $b;
 
 ?>
